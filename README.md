@@ -4,7 +4,7 @@
 
 CENTURION 3D Configurations
 
-- Increased the BLTHOUCH Homing Speed/ While maintaining accuracy
+- Increased the BLTOUCH Homing Speed/ While maintaining accuracy
 
 - Correct PID settings Applied
 
